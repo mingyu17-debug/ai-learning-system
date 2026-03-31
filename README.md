@@ -17,3 +17,4 @@ AI Fluency for Students – Anthropic
 
 ## Project File
 See the attached PDF for full details.
+[dd03ae13-0500-4bad-baa9-6a3f18bb141d_AI_fluency_for_students_.pdf](https://github.com/user-attachments/files/26373212/dd03ae13-0500-4bad-baa9-6a3f18bb141d_AI_fluency_for_students_.pdf)
